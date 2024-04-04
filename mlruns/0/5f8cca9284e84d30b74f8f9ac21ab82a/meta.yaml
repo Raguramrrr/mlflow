@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/Mlflow/mlruns/0/5f8cca9284e84d30b74f8f9ac21ab82a/artifacts
+end_time: 1712213654820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f8cca9284e84d30b74f8f9ac21ab82a
+run_name: efficient-donkey-3
+run_uuid: 5f8cca9284e84d30b74f8f9ac21ab82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712213653178
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/Mlflow/mlruns/0/db269d0f08f647ee880fef52dcfbcaf7/artifacts
+end_time: 1712214217498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db269d0f08f647ee880fef52dcfbcaf7
+run_name: abundant-conch-663
+run_uuid: db269d0f08f647ee880fef52dcfbcaf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712214215977
+status: 3
+tags: []
+user_id: USER
